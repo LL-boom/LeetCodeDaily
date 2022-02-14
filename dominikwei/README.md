@@ -131,3 +131,8 @@ cout<<isalnum('.'); // 零
 
 3. islower(), 判断是否小写 issupper(). 判断是否大写
 4. tolower, toupper
+
+
+# Const 常量
+1. `INT_MAX` 和 `INT_MIN`
+2. 
